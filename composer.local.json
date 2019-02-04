@@ -1,6 +1,8 @@
 {
     "require": {
         "mediawiki/maps": "^7",
-        "mediawiki/semantic-media-wiki": "^3.0"
+        "mediawiki/semantic-media-wiki": "^3.0",
+	"pear/mail": "1.4.1",
+	"pear/net_smtp": "1.8.0"
     }
 }
